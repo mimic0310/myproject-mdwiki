@@ -6,8 +6,25 @@
 1. 月營收的"年增率"要增加，代表訂單穩健，企業穩定
 
 
-## Section 2
+[99趴](https://ericgung.pixnet.net/blog/post/104450056?fbclid=IwAR2oaniW48RiiOgHHcM0VElFT7oNWQdZHFf3zp-vyQzC2q8EyBu9oImFuvw)
+### 選股
+> 觀察個股五年表現,以平均財務數據:
++ ROE > 15
++ 稅後淨利率 > 10%
++ 營業現金對淨利比率 > 50%
++ 負債比率 < 50%
++ 現金股息殖利率 > 6%
++ 股本低於50億
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+### 操作 
+> 先投入總資金40%,平均分散資金再汰弱留強
++ 營收、股價往下,最多-15%或3萬必砍
++ 營收、股價持平,繼續持有
++ 營收、股價往上,設定價格區間內,金字塔方式逐步向上加碼
++ 加碼後趨勢反轉,有獲利下逐步抽會資金
++ 
 
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+### 結語
+> 價值選股 分散持有 順勢操作 資金控管
+
+
